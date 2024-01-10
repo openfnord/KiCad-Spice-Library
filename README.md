@@ -48,6 +48,18 @@ I would like to accept in the organization other KiCad or Spice fans to keep thi
 - https://groups.yahoo.com/neo/groups/LTspice/info
 - https://forum.kicad.info/t/adding-spice-components-that-do-not-exist-in-pspice-library/12036/2
 - http://ltwiki.org/index.php?title=Main_Page
+- http://bordodynov.ltwiki.org/
+- http://bordodynov.ltwiki.org/lib.zip
+  
+# ToDo
+Work in spice ressources from other pages which are openly available
+Work-in LT spice libraries, use a script to convert LT spice libraries from the structure ./sub  ./sym
+sub is the spice lib we need here. 
+sym has asy files which are a bit like xfig, text based representations of symbols. These symbols should be automatically converted into kicad symbols
+
+nice lib: 
+http://bordodynov.ltwiki.org/lib.zip
+
 
 # Examples
 
